@@ -10,6 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Tareas">
         <activity
+            android:name=".view.dto.LoginActivity"
+            android:exported="true" />
+
+        <activity
             android:name=".view.MainActivity"
             android:exported="true">
             <intent-filter>
@@ -18,6 +22,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Model.LoginActivity" />
     </application>
 
 </manifest>

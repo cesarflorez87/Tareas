@@ -12,6 +12,8 @@ public interface MainMVP {
 
         void saveTask(TaskItem task);
 
+        void saveTask();
+
         void updateTask(TaskItem item);
 
         void deleteTask(TaskItem task);

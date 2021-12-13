@@ -15,7 +15,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 import co.com.cesarflorez87.misiontic.Tareas.R;
-import co.com.cesarflorez87.misiontic.Tareas.MainPresenter;
 import co.com.cesarflorez87.misiontic.Tareas.view.dto.TaskItem;
 import co.com.cesarflorez87.misiontic.Tareas.view.dto.TaskState;
 

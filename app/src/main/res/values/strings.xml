@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">tareas</string>
+    <string name="app_name">Tareas</string>
     <string name="enter_task_description">Enter task description</string>
 
 </resources>
